@@ -12,8 +12,8 @@ originalLink: https://www.workingtheorys.com/p/make-something-heavy
 cover: ''
 ---
 
-# Make Something Heavy.
-We're creating more than ever, but it weighs nothing.
+# Galicia Skills 2025.
+He sido seleccionado para las Galicia Skills 2025.
 
 ![Álvaro en Skills.](../../assets/mipirola.jpeg)
 
