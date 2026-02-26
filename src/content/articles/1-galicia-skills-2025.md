@@ -7,15 +7,13 @@ author: Álvaro Magdalena
 category: Galicia Skills 2025
 readingDuration: 1
 pubDate: 2026 2 26
-coverAlt: Women Holding Things - Maira Kalman, 2022.
 originalLink: https://www.workingtheorys.com/p/make-something-heavy
-cover: ../../assets/electro-magnetic-motor.jpg
 ---
 
 # Make Something Heavy.
 We're creating more than ever, but it weighs nothing.
 
-![frff](../../assets/electro-magnetic-motor.jpg)
+![Álvaro en Skills](../../assets/IMG_9107.DNG)
 
 ## We instinctively tie weight to value.
 Gold is solid. Wood is dense. And back when we still printed things on paper, a heavy stapler was a luxury.
