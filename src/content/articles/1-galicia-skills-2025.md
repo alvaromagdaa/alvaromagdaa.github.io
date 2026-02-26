@@ -15,7 +15,7 @@ cover: ''
 # Make Something Heavy.
 We're creating more than ever, but it weighs nothing.
 
-![Álvaro en Skills](../../assets/IMG_9107.DNG)
+![Álvaro en Skills](../../assets/WhatsApp Image 2026-02-26 at 14.13.13.jpeg)
 
 ## We instinctively tie weight to value.
 Gold is solid. Wood is dense. And back when we still printed things on paper, a heavy stapler was a luxury.
