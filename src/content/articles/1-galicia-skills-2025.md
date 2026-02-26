@@ -7,7 +7,9 @@ author: Álvaro Magdalena
 category: Galicia Skills 2025
 readingDuration: 1
 pubDate: 2026 2 26
+coverAlt: 
 originalLink: https://www.workingtheorys.com/p/make-something-heavy
+cover:
 ---
 
 # Make Something Heavy.
