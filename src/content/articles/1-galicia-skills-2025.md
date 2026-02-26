@@ -9,7 +9,7 @@ readingDuration: 1
 pubDate: 2026 2 26
 coverAlt: Women Holding Things - Maira Kalman, 2022.
 originalLink: https://www.workingtheorys.com/p/make-something-heavy
-cover: ../assets/electro-magnetic-motor.jpg
+cover: ../../assets/electro-magnetic-motor.jpg
 ---
 
 # Make Something Heavy.
